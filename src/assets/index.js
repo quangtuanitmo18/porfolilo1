@@ -25,10 +25,15 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import lectron from "./company/lectron.png";
+import risen from "./company/risen.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import shopee from "./shopee.png";
+import eshopper from "./eshopper.jpg";
+import blog from "./blog.jpg";
 
 export {
   logo,
@@ -59,4 +64,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  lectron,
+  risen,
+  shopee,
+  eshopper,
+  blog,
 };
